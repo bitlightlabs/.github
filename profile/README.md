@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Bitlight Labs develops infrastructure based on the #RGB protocol and deploy multiple applications on⚡️ #LightningNetwork. 
 
 <!--
