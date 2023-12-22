@@ -1,11 +1,8 @@
 Bitlight Labs develops infrastructure based on the #RGB protocol and deploy multiple applications on⚡️ #LightningNetwork. 
 
-<!--
-**Here are some ideas to get you started:**
+Main projects:
+- **[Bitlight Core]**: Core functionality for the BitLight wallet
+- **[Bitlight RGB20]**: RGB20 Demo based on RGB v0.11
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Bitlight Core]: https://github.com/bitlightlabs/bitlight-core
+[Bitlight RGB20]: https://github.com/bitlightlabs/bit-rgb20-contract
