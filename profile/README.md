@@ -1,4 +1,4 @@
-Bitlight Labs develops infrastructure based on the [RGB](https://rgb.info/) protocol and deploy multiple applications on⚡️ #LightningNetwork. 
+Bitlight Labs develops infrastructure based on the [RGB](https://rgb.tech/) protocol and deploy multiple applications on⚡️ #LightningNetwork. 
 
 Main projects:
 - **[Bitlight Core]**: Core functionality for the BitLight wallet
