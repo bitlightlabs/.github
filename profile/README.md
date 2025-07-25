@@ -9,4 +9,4 @@ Main projects:
 [Bitlight Wallet Chrome Extension]: https://github.com/bitlightlabs/bitlight-wallet-chrome-extension
 [Bitlight RGB20 Contract Demo]: https://github.com/bitlightlabs/bitlight-rgb20-contract
 [Bitlight Local Env]: https://github.com/bitlightlabs/bitlight-local-env-public
-[Bitlight Wallet SDK]: https://github.com/bitlightlabs/
+[Bitlight Wallet Connect SDK]: https://github.com/bitlightlabs/bitlight-wallet-sdk
