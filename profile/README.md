@@ -2,7 +2,7 @@ Bitlight Labs develops infrastructure based on the [RGB](https://rgb.tech/) prot
 
 Main projects:
 - **[Bitlight Wallet Chrome Extension]**: Wallet Chrome Extension Download
-- **[Bitlight RGB20 Contract Demo]**: RGB20 Demo based on RGB v0.11
+- **[Bitlight RGB20 Contract Demo]**: RGB20 Demo based on RGB v0.11.0-beta.9
 - **[Bitlight Local Env]**: A ready-to-use Bitcoin regtest environment required for testing the open-source RGB project by BitLight
 - **[Bitlight Wallet Connect SDK]**: Bitlight Wallet SDK for RGB protocol
 
