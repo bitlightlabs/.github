@@ -10,3 +10,5 @@ Main projects:
 [Bitlight RGB20 Contract Demo]: https://github.com/bitlightlabs/bitlight-rgb20-contract
 [Bitlight Local Env]: https://github.com/bitlightlabs/bitlight-local-env
 [Bitlight Wallet Connect SDK]: https://github.com/bitlightlabs/bitlight-wallet-sdk
+[Bitlight RGB LDK Node CLI]: https://github.com/bitlightlabs/rgb-ldk-cli-public
+[Bitlight RGB LDK Node TypeScript SDK]: https://github.com/bitlightlabs/bitlight-hub-sandbox-public
