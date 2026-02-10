@@ -5,6 +5,8 @@ Main projects:
 - **[Bitlight RGB20 Contract Demo]**: RGB20 Demo based on RGB v0.11.0-beta.9
 - **[Bitlight Local Env]**: A ready-to-use Bitcoin regtest environment required for testing the open-source RGB project by BitLight
 - **[Bitlight Wallet Connect SDK]**: Bitlight Wallet SDK for RGB protocol
+- **[Bitlight RGB LDK Node CLI]**: Tools for running and controlling an RLN node via a local HTTP JSON API
+- **[Bitlight RGB LDK Node TypeScript SDK]**: A TypeScript-ready SDK and CLI for interacting with RGB-LDK node backends
 
 [Bitlight Wallet Chrome Extension]: https://github.com/bitlightlabs/bitlight-wallet-chrome-extension
 [Bitlight RGB20 Contract Demo]: https://github.com/bitlightlabs/bitlight-rgb20-contract
