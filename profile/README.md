@@ -7,10 +7,12 @@ Main projects:
 - **[Bitlight Wallet Connect SDK]**: Bitlight Wallet SDK for RGB protocol
 - **[Bitlight RGB LDK Node CLI]**: Tools for running and controlling an RLN node via a local HTTP JSON API
 - **[Bitlight RGB LDK Node TypeScript SDK]**: A TypeScript-ready SDK and CLI for interacting with RGB-LDK node backends
-
+- **[Bitlight RGB LDK Node Control Panel]**: A desktop app by Bitlight Labs for managing multiple local rgbldkd nodes
+  
 [Bitlight Wallet Chrome Extension]: https://github.com/bitlightlabs/bitlight-wallet-chrome-extension
 [Bitlight RGB20 Contract Demo]: https://github.com/bitlightlabs/bitlight-rgb20-contract
 [Bitlight Local Env]: https://github.com/bitlightlabs/bitlight-local-env
 [Bitlight Wallet Connect SDK]: https://github.com/bitlightlabs/bitlight-wallet-sdk
 [Bitlight RGB LDK Node CLI]: https://github.com/bitlightlabs/rgb-ldk-cli-public
 [Bitlight RGB LDK Node TypeScript SDK]: https://github.com/bitlightlabs/bitlight-hub-sandbox-public
+[Bitlight RGB LDK Node Control Panel]: https://github.com/bitlightlabs/rgb-ldk-control-panel-public
