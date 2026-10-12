@@ -8,8 +8,8 @@ Main projects:
 - **[Bitlight RGB LDK Node CLI]**: Tools for running and controlling an RLN node via a local HTTP JSON API
 - **[Bitlight RGB LDK Node TypeScript SDK]**: A TypeScript-ready SDK and CLI for interacting with RGB-LDK node backends
 - **[Bitlight RGB LDK Node Control Panel]**: A desktop app by Bitlight Labs for managing multiple local rgbldkd nodes
-- **[Bitlight Dedicated Library for RLN UTXOs management]**: Dedicated library for UTXO observation, reconciliation, selection, and reservation
-- **[Bitlight RLN Design Kit & UI Flows]**: Bitlight RLN Design Kit: LSP flows and UI screens
+- **[Bitlight Dedicated Library for RLN UTXOs management]**
+- **[Bitlight RLN Design Kit & UI Flows]**
     
 [Bitlight Wallet Chrome Extension]: https://github.com/bitlightlabs/bitlight-wallet-chrome-extension
 [Bitlight RGB20 Contract Demo]: https://github.com/bitlightlabs/bitlight-rgb20-contract
